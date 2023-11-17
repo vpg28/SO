@@ -1,0 +1,38 @@
+mkdir SO-A
+cd SO-A
+mkdir pert3
+cd pert3
+mkdir Auuuustralia  Malaysiiiaaa  Test
+
+cd Auuuustralia
+mkdir Sydneyyy Maelburn Ngawi
+touch Bruuuhhh.txt Briiihhh.py BBruuuhhh.txt
+cd Sydneyyy
+mkdir Meduroo Sumenepp
+touch Babyatan.py R34CT.jsx
+cd Meduroo
+touch bangKaaaaaalaaaan.html Hahaaaaaaaaaaaaa.txt Bruuneiii.py
+cd ..
+cd Sumenepp
+touch JepAnG.txt Koala-Lumppur.css
+cd ../..
+cd Maelburn
+mkdir Jembrett
+touch SIUUUUuuuuuUUUU.py SSSIIIiiiiiUUUUU.txt ssSSiiiIIIuuuuUUUU.txt
+cd Jembrett
+touch KRRiissNaAAaa.py kkkKKrrisnAAa.txt .Krisna kKkrRriISsNNa.txt
+cd ../..
+cd Ngawi
+touch oooOOOOooooO.txt OOOo00Ooo000.py Ooo0000ooO.html
+cd ../..
+
+cd Malaysiiiaaa
+mkdir Upin Ipin
+cd Upin
+touch iyaDek.txt bang.txt
+cd ..
+cd Ipin
+touch siapKak.py haha.cpp
+cd ../..
+
+ls -RA
